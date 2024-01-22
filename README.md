@@ -1,1 +1,1 @@
-# webchat-proeqti
+# MZIURI-Project-2
